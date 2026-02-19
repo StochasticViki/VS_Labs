@@ -1,4 +1,4 @@
-# YFinance Toolkit
+# VS Labs
 
 A comprehensive desktop application for financial data analysis, featuring beta calculation, volatility analysis, and price data extraction from Yahoo Finance.
 
@@ -64,9 +64,6 @@ https://www.google.com/chrome/
 ### Run from Source
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/yfinance-toolkit.git
-cd yfinance-toolkit
-
 # Install dependencies
 pip install -r requirements.txt
 
